@@ -33,7 +33,12 @@
   }
 
   
-
+  img {
+    float: left;
+    width:  100px !important;
+    height: 300px !important ;
+    object-fit: cover;
+}
   
   .card-img-overlay {
     position: absolute;
