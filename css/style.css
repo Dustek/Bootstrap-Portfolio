@@ -18,3 +18,28 @@
     color: white;
     text-align: center;
   }
+
+
+  
+
+  
+  .card-img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(95, 121, 160, 0.315); 
+    transition: background-color 0.3s ease;
+  }
+
+
+  .overlay-container:hover .card-img-overlay {
+    cursor:pointer;
+    background-color: rgba(0, 17, 255, 0)
+    }
+
+
+    .border-4 {
+      border-width:4px !important;
+  }
