@@ -7,11 +7,6 @@
     1px 1px 0 #000000;
 
 }
-
-
-
-
-/* Jumbotron  */
 .hero-background {
     background-image: url(../images/forest_face.jpg);
     background-size: cover;
@@ -23,7 +18,8 @@
     justify-content: center;
   }
   
-  /* Jumbotron copy */
+
+
   .jumboCopy {
     width: 70%;
     min-width: 500px;
@@ -62,7 +58,6 @@
   }
 
 
-
   .custom-btn {
     border: none;
     padding: 10px 20px;
@@ -76,34 +71,6 @@
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
   }
 
-  /* .btn:hover {
-    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1) !important;
-  } */
-
-  /* .facebook-btn {
-    background-color: #5a00c2 !important;
-  }
-  .email-btn {
-    background-color: #dd4b39 !important;
-  }
-  .linkedin-btn {
-    background-color: #0082ca !important;
-  }
-  .github-btn {
-    background-color: #333333 !important;
-  } */
-/* .facebook-btn,
-.email-btn,
-.linkedin-btn,
-.github-btn {
-  transition: box-shadow 0.3s ease;
-}
-  .facebook-btn:hover,
-  .email-btn:hover,
-  .linkedin-btn:hover,
-  .github-btn:hover {
-    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.1) !important;
-  } */
 
   .skill-section {
     padding: 20px;  
