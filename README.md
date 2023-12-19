@@ -48,4 +48,8 @@ https://dustek.github.io/Portfolio/
 
 
 
-## Screenshot:
+## Screenshots:
+
+![screenshot](https://github.com/Dustek/Bootstrap-Portfolio/blob/main/images/screenshot1.png)
+
+![screenshot](https://github.com/Dustek/Bootstrap-Portfolio/blob/main/images/screenshot2.png)
